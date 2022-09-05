@@ -1,1 +1,1 @@
-Bye bye my_first_directory
+Bye bye My first directory
